@@ -1,0 +1,8 @@
+echo "# Nayem-jisan" >> README.md
+git init
+git add NAYEM.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Pokokkdhdh/Nayem-jisan.git
+git nayem
+nayem.py
